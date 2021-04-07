@@ -1,0 +1,33 @@
+body {
+  background-color: lightslategray;
+  padding: 0px;
+  margin: 0px;
+}
+
+.container {
+  text-align: center;
+}
+
+img {
+  padding: 1em;
+  margin: 1em;
+  border-radius: 50%;
+  height: 25em;
+}
+
+#aboutMe h2 {
+  text-align: center;
+  color: rgb(39, 37, 37);
+}
+
+.main p {
+  text-align: center;
+  margin: 5em; auto;
+  padding-top: 0em;
+}
+
+footer {
+  text-align: center;
+  padding-top: inherit;
+  background-color: lightyellow;
+}
